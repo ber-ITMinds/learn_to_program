@@ -21,7 +21,7 @@ Materialet til Python findes i mapperne
 ## Materiale
 
 ### Dag 1:
-####[Intro til Python](https://www.datacamp.com/courses/intro-to-python-for-data-science).
+#### [Intro til Python](https://www.datacamp.com/courses/intro-to-python-for-data-science).
 - Python Basics
 - Python Lists
 - Functions and Packages
