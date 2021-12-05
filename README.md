@@ -1,4 +1,4 @@
- -# IT Minds Folkeskolepraktik
+# IT Minds Folkeskolepraktik
 
 I dette repository findes alt materiale til IT Minds folkeskolepraktik.
 - [Invitation + Ugeprogram](https://docs.google.com/document/d/1Pz4iN2EWj15I17AmFaapt5Ub7lZPxjYyyQqoFr_utAA/) findes planen for ugen.
