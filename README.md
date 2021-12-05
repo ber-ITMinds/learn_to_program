@@ -1,4 +1,4 @@
-# IT Minds Folkeskolepraktik
+ -# IT Minds Folkeskolepraktik
 
 I dette repository findes alt materiale til IT Minds folkeskolepraktik.
 - [Invitation + Ugeprogram](https://docs.google.com/document/d/1Pz4iN2EWj15I17AmFaapt5Ub7lZPxjYyyQqoFr_utAA/) findes planen for ugen.
@@ -43,10 +43,7 @@ Materialet til Python findes i mapperne
 
 #### Opgaver
 - [Hello ...](day1/1_hello/)
-- [lists](day1/_lists)
-- [packages](day1/_packages)
-- [loops](day1/_loops/)
-- [functions](day1/_functions/)
+
 
 
 ## Dag 2:
@@ -55,3 +52,10 @@ Materialet til Python findes i mapperne
 [Tuples](https://www.geeksforgeeks.org/python-tuples/)
 [Dictionaries](https://www.geeksforgeeks.org/python-dictionary/)
 [Files](https://www.geeksforgeeks.org/file-handling-python/)
+
+
+#### Opgaver
+- [lists](day2/1_lists)
+- [packages](day2/2_packages)
+- [loops](day2/3_loops/)
+- [functions](day2/4_functions/)
