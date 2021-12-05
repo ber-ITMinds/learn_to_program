@@ -5,6 +5,12 @@ I dette repository findes alt materiale til IT Minds folkeskolepraktik.
 - [Opgavepakke](https://docs.google.com/document/d/1tsG5nReAUyXuP9HtOcvNZtzCNUMXOBjXFf2gi0FHcGk/)
 
 
+
+## README.md
+I hver mappe er den er fil 'README.md' med information om hvordan koden køres, hvilke opgaver der hører til og lign. Denne er altid et godt sted at starte.
+md står for Markdown og er et format man hele tiden støder på i software industrien. Den kan læses i råt format(som en .txt fil), men læses bedst i en Markdown reader (fx. [dillinger.io](dillinger.io)). I GitHub er en indbygget Markdown reader der læser README.md for den mappe du er i.
+
+
 ## Backend: Python
 Materialet til Python findes i mapperne
 - [day1](day1/)
@@ -34,6 +40,13 @@ Materialet til Python findes i mapperne
 #### How to install Python + pip:
 - [Python](https://www.youtube.com/watch?v=i-MuSAwgwCU)
 - [pip](https://www.geeksforgeeks.org/how-to-install-pip-on-windows/)
+
+#### Opgaver
+- [Hello ...](day1/1_hello/)
+- [lists](day1/_lists)
+- [packages](day1/_packages)
+- [loops](day1/_loops/)
+- [functions](day1/_functions/)
 
 
 ## Dag 2:
