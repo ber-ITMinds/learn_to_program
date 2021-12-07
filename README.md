@@ -3,6 +3,7 @@
 I dette repository findes alt materiale til hørende den udleverede opgavepakke til IT Minds folkeskolepraktik.
 
 
+
 ## README.md
 I hver mappe er den er fil 'README.md' med information om hvordan koden køres, hvilke opgaver der hører til og lign. Denne er altid et godt sted at starte.
 md står for Markdown og er et format man hele tiden støder på i software industrien. Den kan læses i råt format(som en .txt fil), men læses bedst i en Markdown reader (fx. [dillinger.io](dillinger.io)). I GitHub er en indbygget Markdown reader der læser README.md for den mappe du er i.
