@@ -15,6 +15,7 @@ def hello():
     lastname = request.args.get('lastname', type = str)
     return send_hello(firstname+lastname)
 
+
 # Flask setup
 if __name__ == '__main__':
     app.run(debug=True)
