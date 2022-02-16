@@ -2,11 +2,15 @@ from flask import Flask, request, jsonify
 app = Flask(__name__)
 
 def send_hello(who):
-    return "Hello " + who
+    return "<h1> Hello " + who + "</h1>"
 
 @app.route('/')
 def welcome():
-    return "Welcome to my Flask API"
+    return """
+    <h1 style='color: red;'>I'm a red H1 heading!</h1>
+    <p>This is a lovely little {}</p>
+    <code>Flask is <em>awesome</em></code>
+    """.format("paragraph")
 
 # localhost:5000/hello?firstname=benjamin&lastname=eriksen
 @app.route('/hello', methods=['GET'])
