@@ -1,4 +1,4 @@
-# 1. Pokedex API
+# 3. Pokedex API
 Koden i app.py udbyder en række af Pokedex funtioner gennem [flask](https://flask.palletsprojects.com/en/2.0.x/).
 
 ## Pokedex
