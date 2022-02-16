@@ -1,6 +1,5 @@
 # 1. Flask API
-Flask
-
+Se [FLASK.md](FLASK.md) for information om hvordan flask køres.
 
 ## How to run
 ´set FLASK_DEBUG=1 # Makes the program load any changes to the code instantly.
@@ -30,6 +29,4 @@ Få programmet til at håndtere et eventuelt mellemnavn.
 
 
 
-
-
-## Noget med POST?
+### Noget med POST?
