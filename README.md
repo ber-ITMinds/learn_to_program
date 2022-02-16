@@ -38,14 +38,15 @@ Materialet til Python findes i mapperne
 #### How to install Python + pip:
 - [Python](https://www.youtube.com/watch?v=i-MuSAwgwCU)
 - [pip](https://www.geeksforgeeks.org/how-to-install-pip-on-windows/)
+- [Atom 'IDE'](https://atom.io/)
 
 #### Opgaver
 - [Hello ...](day1/1_hello/)
 
 
 
-## Dag 2:
-### Intermediate Python
+### Dag 2:
+#### Intermediate Python
 [Global/Local](https://www.geeksforgeeks.org/global-local-variables-python/)
 [Tuples](https://www.geeksforgeeks.org/python-tuples/)
 [Dictionaries](https://www.geeksforgeeks.org/python-dictionary/)
@@ -57,3 +58,15 @@ Materialet til Python findes i mapperne
 - [packages](day2/2_packages)
 - [loops](day2/3_loops/)
 - [functions](day2/4_functions/)
+
+
+### Dag 3:
+
+
+#### Python Webservice med Flask 
+- [REST](https://restfulapi.net/http-methods/)
+#### Opgaver
+Opgaverne findes i mappen [day3](day3/) og er beskrevet i den tilhørende README.md fil
+- [fix hello](day3/1_flask_hello/)
+- [tilføj funktioner til lommeregner](day3/2_flask_calculator/)
+- [Pokedex API](day3/3_flask_pokedex/)
