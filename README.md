@@ -54,16 +54,16 @@ Materialet til Python findes i mapperne
 
 
 #### Opgaver
-- [lists](day2/1_lists)
-- [packages](day2/2_packages)
-- [loops](day2/3_loops/)
+- [~~lists~~](day2/1_lists)
+- [~~packages~~](day2/2_packages)
+- [~~loops~~](day2/3_loops/)
 - [functions](day2/4_functions/)
 
 
 ### Dag 3:
 
 
-#### Python Webservice med Flask 
+#### Python Webservice med Flask
 - [REST](https://restfulapi.net/http-methods/)
 #### Opgaver
 Opgaverne findes i mappen [day3](day3/) og er beskrevet i den tilhørende README.md fil
