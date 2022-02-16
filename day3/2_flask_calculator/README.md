@@ -1,6 +1,4 @@
-# 1. Flask API
-Flask
-
+# 2. Flask Lommeregner
 
 ## How to run
 ´set FLASK_DEBUG=1 # Makes the program load any changes to the code instantly.
