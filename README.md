@@ -63,7 +63,9 @@ Materialet til Python findes i mapperne
 
 
 #### Python Webservice med Flask
-- [REST](https://restfulapi.net/http-methods/)
+- [Intro til REST](https://restfulapi.net/http-methods/)
+- [Intro til Flask](https://www.geeksforgeeks.org/python-introduction-to-web-development-using-flask/)
+
 #### Opgaver
 Opgaverne findes i mappen [day3](day3/) og er beskrevet i den tilhørende README.md fil
 - [fix hello](day3/1_flask_hello/)
