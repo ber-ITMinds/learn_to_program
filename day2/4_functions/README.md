@@ -12,13 +12,13 @@ Få programmet til at tage 2 variabler a,b fra brugerens input i terminalen og d
 
 Udvid programmet således at brugeren kan indtaste "+" eller "-" og kør herefter den funktion, der passer til den indtastede operator.
 
-### Tuples
+## Tuples
 
 Opret en tuple med en String, en int og en Boolean. Udskriv herefter indholdet af tuplen inklusiv data typen for hver variabel med funktionen type(insæt variabel).
 
 Udskriv derefter hver enkelt værdi af tupllen på hver sin linje ved at tilgå de enkelte index i tuplen. Udvid derefter denne funktionalitet, således at det køres i et for-loop på baggrund af tuplens længde. (Hint: len(tuple))
 
-### Dictionaries
+## Dictionaries
 Opret en dictionary der indeholder navnet på alle praktikanterne koblet op på nøgler af typen "PraktikantX". Udskriv dictionarien og derefter de enkelte elementer i den på baggrund af navnet på nøglen.
 
 Opret derefter en dictionary med de samme navne, men koblet op på et ID i stedet. Udskriv dictionarien og derefter de enkelte elementer i den på baggrund af indexet.
