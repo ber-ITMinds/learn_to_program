@@ -1,14 +1,16 @@
-# Vi definerer først vores funktioner
+# Vi definerer først vores funktion
 def add(a, b):
     return a + b
 
+# herefter kan vi bruge vores funktion med to input
+add(2,2)
 
-# herefter kan vi kalde vores funktion
-
-# med variabler som input
+# eller vi kan bruge variabler med vores input
 x = 5
 z = 10
-print(add(x,z))
+add(x,z)
 
-# eller med værdier som input
-print(add(1,2))
+# vi kan enten printe vores resultat(return-værdi) eller gemme den i en ny variabel
+print(add(2,2))
+y = add(x,z)
+print(y)
