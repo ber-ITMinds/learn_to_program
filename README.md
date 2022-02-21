@@ -59,6 +59,8 @@ Materialet til Python findes i mapperne
 - [~~packages~~](day2/2_packages)
 - [~~loops~~](day2/3_loops/)
 - [functions](day2/4_functions/)
+- [Lommeregner](day2/lommeregner/)
+- [Pokedex](day2/pokedex/)
 
 
 ### Dag 3:
