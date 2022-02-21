@@ -8,6 +8,8 @@ I dette repository findes alt materiale til hørende den udleverede opgavepakke 
 I hver mappe er den er fil 'README.md' med information om hvordan koden køres, hvilke opgaver der hører til og lign. Denne er altid et godt sted at starte.
 md står for Markdown og er et format man hele tiden støder på i software industrien. Den kan læses i råt format(som en .txt fil), men læses bedst i en Markdown reader (fx. [dillinger.io](dillinger.io)). I GitHub er en indbygget Markdown reader der læser README.md for den mappe du er i.
 
+Opgavepakken er samlet så der er mulighed for at springe til en anden opgave hvis du går i stå og din kontaktperson ikke lige er tilgængelig. Men det er forventet at du til tider vil gå i stå og have brug for at spørge til råds, inden du gør dette så forsøg først at se om du kan dele problemet op i mindre dele, så du kan spørge helt konkret “hvordan printer jeg en variabel?” og ikke bare “hvorfor virker det ikke?”.
+
 
 ## Backend: Python
 Materialet til Python findes i mapperne
@@ -63,7 +65,9 @@ Materialet til Python findes i mapperne
 
 
 #### Python Webservice med Flask
-- [REST](https://restfulapi.net/http-methods/)
+- [Intro til REST](https://restfulapi.net/http-methods/)
+- [Intro til Flask](https://www.geeksforgeeks.org/python-introduction-to-web-development-using-flask/)
+
 #### Opgaver
 Opgaverne findes i mappen [day3](day3/) og er beskrevet i den tilhørende README.md fil
 - [fix hello](day3/1_flask_hello/)
