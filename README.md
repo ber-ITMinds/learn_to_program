@@ -49,6 +49,7 @@ Materialet til Python findes i mapperne
 
 ### Dag 2:
 #### Intermediate Python
+- [Global/Local](https://www.geeksforgeeks.org/global-local-variables-python/)
 - [Tuples](https://www.geeksforgeeks.org/python-tuples/)
 - [Dictionaries](https://www.geeksforgeeks.org/python-dictionary/)
 - [Files](https://www.geeksforgeeks.org/file-handling-python/)
